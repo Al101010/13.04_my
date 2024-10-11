@@ -1,3 +1,5 @@
+ссылка: https://al101010.github.io/13.04_my /
+[![Build status](https://ci.appveyor.com/api/projects/status/0c2cu5o31h1yaprb?svg=true)](https://ci.appveyor.com/project/Al101010/13-04-my)
 # 13.04_my
 
 Начал: 10.10.2024
